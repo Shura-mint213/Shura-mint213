@@ -1,4 +1,4 @@
-![what_is_a_programming_language](https://user-images.githubusercontent.com/70953745/140534727-65022a27-9226-4ea2-a1d4-4a89d764ec3b.jpg)
+![scale_1200](https://user-images.githubusercontent.com/70953745/140535036-cb510af1-bdab-456b-a25e-bc90d996ab9d.jpg)
 ### Hi there 👋
 
 
