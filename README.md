@@ -1,4 +1,4 @@
-![Image alt](![image](https://user-images.githubusercontent.com/70953745/140533793-607c1fc6-e3a7-4dba-8b7b-42f3f261a0f1.png))
+
 ### Hi there 👋
 
 
