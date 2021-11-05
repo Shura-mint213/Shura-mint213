@@ -1,4 +1,6 @@
+![Uploading what_is_a_programming_language.jpg…]()
 ### Hi there 👋
+
 
 <!--
 **Shura-mint213/Shura-mint213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
