@@ -1,4 +1,4 @@
-![Uploading what_is_a_programming_language.jpg…]()
+https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/what_is_a_programming_language.jpg
 ### Hi there 👋
 
 
