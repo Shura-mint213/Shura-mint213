@@ -6,3 +6,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=Kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
+
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/ShuraMint
+)
