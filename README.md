@@ -1,6 +1,6 @@
 ![scale_1200](https://user-images.githubusercontent.com/70953745/140535036-cb510af1-bdab-456b-a25e-bc90d996ab9d.jpg)
 ### Hi there 👋
-![C#](https://user-images.githubusercontent.com/70953745/140600092-117bbe31-9612-4d23-9d82-851e5f754c19.png)
+
 
 <!--
 **Shura-mint213/Shura-mint213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
