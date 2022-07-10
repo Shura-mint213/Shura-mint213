@@ -4,7 +4,6 @@
 ### Languages
 ![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=CSharp&logoColor=662f93)
 ![Sql](https://img.shields.io/badge/-Sql-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=Kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 
 ### Contacts
