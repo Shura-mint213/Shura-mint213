@@ -5,8 +5,8 @@
 ![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=CSharp&logoColor=662f93)
 ![Sql](https://img.shields.io/badge/-Sql-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
-![TypeScript]
-![PostgreSQL]
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/ShuraMint
